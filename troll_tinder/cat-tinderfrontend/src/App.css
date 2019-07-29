@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+
+}
+
+.Main-header {
+    display: flex;
+    justify-content: center;
+    color: #abd487;
+    padding-top: 200px;
+    font-size: 500%
+}
+
+.Main-page {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #e0533a;
+    padding-top: 25px;
+    font-size: 120%
+}
+
+.story {
+    border: 1px solid black;
+    box-shadow: 7px 10px 12px -5px rgba(0,0,0,0.56)
+}
+
+.couple-pic {
+    box-shadow: 7px 10px 12px -5px rgba(0,0,0,0.56)
+}
+
+.Story-box {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    width: 900px;
+}
+
+.Test {
+    background-color: black;
+}
+
+
+.form-test {
+  padding: 25px;
+}
+
+.submit {
+  margin-top: 15px;
+}
+
+
+.Troll-card {
+  display: flex;
+  flex-wrap: wrap;
+  box-shadow: 7px 10px 12px -5px rgba(0,0,0,0.56)
+}
+
+.Container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Profile-pic{
+    width: 285px;
+}
+
+/* footer {
+    background-image: url('./images/footer.png');
+    background-repeat: repeat-x;
+    position: absolute;
+    bottom: 0;
+} */
